@@ -6,4 +6,4 @@ Technologies used: Hyperledger, ThirdWeb, Alchemy, ERC-1155, Rinkeby testnet, IP
 
 **<a href="https://switchinto.tech/dao" target="_blank">Here</a> is a link on how to how to build this.**
 
-*<a href="https://elysedao.vercel.app/" target="_blank">Here</a> is an example of the simple wallet.*
+*<a href="https://elysedao.vercel.app/" target="_blank">Here</a> is an example of the dao.*
