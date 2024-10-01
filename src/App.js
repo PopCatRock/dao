@@ -8,7 +8,7 @@ import { ThirdwebSDK } from "@3rdweb/sdk";
 const sdk = new ThirdwebSDK("bitrock");
 
 const bundleDropModule = sdk.getBundleDropModule(
-  "0x30aA5216bCBCb3bc6072B1e58FaC593117acD94F",
+  "0x50D8d4Cf37a0AEA22B78951cFc0E25D6B97B51d0",
 );
 
 const tokenModule = sdk.getTokenModule(
