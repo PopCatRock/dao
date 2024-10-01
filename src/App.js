@@ -12,11 +12,11 @@ const bundleDropModule = sdk.getBundleDropModule(
 );
 
 const tokenModule = sdk.getTokenModule(
-  "0x457b8C7e80ffefc5589b67A35D9160908eFa26CB"
+  "0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15"
 );
 
 const voteModule = sdk.getVoteModule(
-  "0x131FC8E5Ad4D4A4476da6b3f51049aDdDCf03376",
+  "0x58637A7514f3C16a60FC82CEB9bad0619E8467db",
 );
 
 const App = () => {
