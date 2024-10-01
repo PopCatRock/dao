@@ -5,7 +5,7 @@ import { UnsupportedChainIdError } from "@web3-react/core";
 import { useWeb3 } from "@3rdweb/hooks";
 import { ThirdwebSDK } from "@3rdweb/sdk";
 
-const sdk = new ThirdwebSDK("bitrock");
+const sdk = new ThirdwebSDK("rinkeby");
 
 const bundleDropModule = sdk.getBundleDropModule(
   "0x50D8d4Cf37a0AEA22B78951cFc0E25D6B97B51d0",
